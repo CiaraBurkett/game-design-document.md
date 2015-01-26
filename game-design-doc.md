@@ -32,7 +32,8 @@ Copyright notice / author information / boring legal stuff nobody likes
 	a. Style Attributes
 	b. Sounds Needed
 	c. Music Needed
-8. [Schedule](#schedule)
+8. [Marketing & Promotion](#marketing)
+9. [Schedule](#schedule)
 
 ## [Game Design](id:gamedesign)
 ### Summary
@@ -60,6 +61,8 @@ Copyright notice / author information / boring legal stuff nobody likes
 ### Style Attributes
 ### Sounds Needed
 ### Music Needed
+
+## [Marketing & Promotion](id:marketing)
 
 ## [Schedule](id:schedule)
 ### Week 1
